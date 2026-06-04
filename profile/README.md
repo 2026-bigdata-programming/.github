@@ -1,6 +1,6 @@
 <div align="center">
 
-# PRISM Lab
+# PRISM
 
 **P**redicting **R**eview ratings with **I**mage-aware **S**equential **M**ultimodal fusion
 
